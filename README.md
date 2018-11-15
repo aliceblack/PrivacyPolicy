@@ -1,4 +1,4 @@
-# PrivacyPolitcy
+# PrivacyPolicy
 12 November 2018
 
 This page informs you of our policies regarding the collection, use and disclosure of
